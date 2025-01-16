@@ -1,3 +1,5 @@
+[<img src="https://api.gitsponsors.com/api/badge/img?id=634323931" height="20">](https://api.gitsponsors.com/api/badge/link?p=SNDCb29auNHzzpQVTlukVfShVJM5dTlkoO3cHygg0hX4WF2qs1HmrDMXMTH87xHu1ETnpkmcFqj2nvIkyADToDYjZeB2XZpoDIDH0BymTj83Vwfeb8whcCcXoUvHeclZ76aG/Dmtp7bxZZE7O+8xHQ==)
+
 ## LZ4 for iOS and Mac OS X (Intel & Apple Silicon M1) - arm64 / x86_64
 
 Supported version: 1.9.4
