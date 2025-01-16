@@ -1,4 +1,5 @@
 [<img src="https://api.gitsponsors.com/api/badge/img?id=634323931" height="50">](https://api.gitsponsors.com/api/badge/link?p=SNDCb29auNHzzpQVTlukVWnlZlgtEx16AXVyPY97lHepp2fBHW+BJrhcDx2NY38YIAF8lRcs+Xe2ZUgX61Hvjs33fP1rv2viqkAj3IoQeWJGbUkNbmey9HoJAD87iqlScO1f0gW1D9t1Ts9DuKX2Vg==)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=634323931" height="50">](https://api.gitsponsors.com/api/badge/link?p=SNDCb29auNHzzpQVTlukVWnlZlgtEx16AXVyPY97lHepp2fBHW+BJrhcDx2NY38YIAF8lRcs+Xe2ZUgX61Hvjs33fP1rv2viqkAj3IoQeWJGbUkNbmey9HoJAD87iqlScO1f0gW1D9t1Ts9DuKX2Vg==)
 
 ## LZ4 for iOS and Mac OS X (Intel & Apple Silicon M1) - arm64 / x86_64
 
